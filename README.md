@@ -1,2 +1,15 @@
-# bee-game
-Simple Bird Game in C This project implements a basic 2D bird game using the C programming language and the Turbo C++ Graphics Library. Players control a bird, navigating it through vertical poles while avoiding collisions. The game features a scoring system that rewards players for successfully maneuvering through obstacles.
+Simple Bird Game in C
+
+The Simple Bird Game in C is a 2D game developed using the C programming language and the Turbo C++ Graphics Library. In this game, players control a bird navigating through obstacles, aiming to score points while avoiding collisions.
+
+Features
+User-Friendly Controls: Flap the bird using the spacebar.
+Dynamic Scoring: Earn points by successfully passing through poles.
+Game Over Logic: Clear feedback when the game ends, with an option to restart.
+Basic Graphics: Visual elements created using the Turbo C++ Graphics Library.
+
+
+*Prerequisites*
+Turbo C++ compiler with Graphics Library support.
+Basic knowledge of C programming.
+
